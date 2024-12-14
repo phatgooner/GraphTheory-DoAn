@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Đồ án môn học\bin\Debug\net8.0\Đồ án môn học.exe
+C:\Users\ADMIN\source\repos\Đồ án môn học\bin\Debug\net8.0\Đồ án môn học.deps.json
+C:\Users\ADMIN\source\repos\Đồ án môn học\bin\Debug\net8.0\Đồ án môn học.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Đồ án môn học\bin\Debug\net8.0\Đồ án môn học.dll
+C:\Users\ADMIN\source\repos\Đồ án môn học\bin\Debug\net8.0\Đồ án môn học.pdb
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\Đồ án môn học.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\Đồ án môn học.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\Đồ án môn học.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\Đồ án môn học.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\Đồ án môn học.dll
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\refint\Đồ án môn học.dll
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\Đồ án môn học.pdb
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\Đồ án môn học.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Đồ án môn học\obj\Debug\net8.0\ref\Đồ án môn học.dll

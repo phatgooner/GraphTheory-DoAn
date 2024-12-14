@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Graph Theory Project\bin\Debug\net8.0\Graph Theory Project.exe
+C:\Users\ADMIN\source\repos\Graph Theory Project\bin\Debug\net8.0\Graph Theory Project.deps.json
+C:\Users\ADMIN\source\repos\Graph Theory Project\bin\Debug\net8.0\Graph Theory Project.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Graph Theory Project\bin\Debug\net8.0\Graph Theory Project.dll
+C:\Users\ADMIN\source\repos\Graph Theory Project\bin\Debug\net8.0\Graph Theory Project.pdb
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\Graph Theory Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\Graph Theory Project.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\Graph Theory Project.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\Graph Theory Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\Graph Theory Project.dll
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\refint\Graph Theory Project.dll
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\Graph Theory Project.pdb
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\Graph Theory Project.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Graph Theory Project\obj\Debug\net8.0\ref\Graph Theory Project.dll
